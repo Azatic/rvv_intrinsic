@@ -3,3 +3,4 @@ example
 vle32.c
 vle64.c
 *.s
+!example.s
